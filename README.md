@@ -17,3 +17,4 @@
   Lately, there have been a lot of changes in US immigration rules owing to the pandemic situation. This has caused a lot of anxiety among the immigrants as most of them are struggling to find good immigration advice at a reasonable cost. That is why we propose to build a one-stop chatbot solution to provide free immigration advice in a user-friendly fashion. This AI-driven chatbot would have access to the immigration knowledge base and would intelligently pull relevant information to answer any of the immigration-related queries posted by the user. Users can seek guidance by having layman's conversations with the chatbot to know about the eligibility criteria for a specific visa, the impact on their current immigration status due to new policy revisions, and much more.
   
   We intend to use IBM Watson assistant to implement the above chatbot solution.
+
