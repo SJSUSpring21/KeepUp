@@ -5,6 +5,8 @@
   Social media abuse, whether it's cyberbullying or posting toxic comments to provoke the masses, is increasingly making the social media space an unsafe place to interact, leading to various emotional problems among its users like depression, anxiety, mass hysteria, and so on. In an effort to prevent such social disruption, we propose to build a solution to moderate the textual content and determine the nature of the prose based on its toxicity. This will help the social media website/blog owners to automatically identify any toxic content posted on their platform thereby empowering them to make censorship decisions.
   
   We intend to implement its core functionality by making use of Natural Language Processing and Recurrent Neural Networks.
+  
+  
 
 
 ## 2. MusicMood:
@@ -18,3 +20,4 @@
   
   We intend to use IBM Watson assistant to implement the above chatbot solution.
 
+Available dataset: https://usafacts.org/data/topics/people-society/immigration/
