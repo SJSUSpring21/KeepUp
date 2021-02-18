@@ -6,7 +6,7 @@
   
   We intend to implement its core functionality by making use of Natural Language Processing and Recurrent Neural Networks.
   
-  
+  Dataset: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 
 ## 2. MusicMood:
