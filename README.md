@@ -5,4 +5,5 @@ Innovation News Dashboard (XFuture Startup)
 
 ## Architecture Diagram:
 
-![KeepAhead_ProjArchiDiagram](https://user-images.githubusercontent.com/20592430/110735958-a58b6c00-81df-11eb-84a4-faf511c0b22b.jpeg)
+![KeepAhead (1)_page-0001](https://user-images.githubusercontent.com/20592430/116641645-030b8180-a922-11eb-9361-352e3846819c.jpg)
+
