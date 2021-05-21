@@ -1,6 +1,9 @@
 # KeepUp
 
-### Project Name: 
+## Currently Hosted at:
+http://18.224.69.118:8000/
+
+## Project Name: 
 Innovation News Dashboard (XFuture Startup)
 
 ## Architecture Diagram:
